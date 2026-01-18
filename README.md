@@ -10,4 +10,4 @@ Supervised by **Dr. Oksana Chubykalo Fesenko** and **Dr. Rubén Otxoa de Zuazola
 
 Here is a short written interview for the general public discussing my research and its impact:
 
-👉 **[My research topic offers promising perspectives](https://www.icmm.csic.es/en/actualidad-y-divulgacion/paul-gavriloaea-defending-his-thesis-my-research-topic-offer-promising)**
+👉 **[My research topic offers promising perspectives for green memory and logic devices.](https://www.icmm.csic.es/en/actualidad-y-divulgacion/paul-gavriloaea-defending-his-thesis-my-research-topic-offer-promising)**
