@@ -1,7 +1,10 @@
 ## 📘 PhD Thesis (2025)
 
 **My PhD thesis (PDF)**  
-Supervised by **Dr. Oksana Chubykalo Fesenko** and **Dr. Rubén Otxoa de Zuazola**  
+Supervised by 
+**Dr. Oksana Chubykalo Fesenko** 
+and
+**Dr. Rubén Otxoa de Zuazola**  
 **ICMM, CSIC (Madrid)**
 
 ---
